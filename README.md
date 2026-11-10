@@ -1,5 +1,8 @@
 # Album Collection Hybrid Mobile Application
 
+**Author:** Mateus Fonseca Campos  
+**Email:** mateusff8@gmail.com
+
 **Dublin Business School**  
 **MSc in Information Systems with Computing**  
 **Web and Mobile Technologies - B9IS126**  
