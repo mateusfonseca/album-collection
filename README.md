@@ -62,7 +62,7 @@ Based on the requirements gathered and the assignment's instructions, the follow
 
 The following flowchart presents a basic overview of the application's core operations:
 
-| ![flowchart.png](screenshots/flowchart.png) |
+| ![flowchart.png](images/diagrams/flowchart.png) |
 | :-: |
 | *App's basic operations* |
 
@@ -182,19 +182,19 @@ The below is a breakdown of the project’s file structure (auto-generated files
 ```
 The following are some screenshots of the application in use, showcasing core operations and native functionalities:
 
-| ![authentication.jpeg](screenshots/authentication.jpeg) | ![collection.jpeg](screenshots/collection.jpeg) |
+| ![authentication.jpeg](images/screenshots/authentication.jpeg) | ![collection.jpeg](images/screenshots/collection.jpeg) |
 | :-: | :-: |
 | *Authentication* | *Collection* |
 
-| ![album-details.jpeg](screenshots/album-details.jpeg) | ![search-form.jpeg](screenshots/search-form.jpeg) |
+| ![album-details.jpeg](images/screenshots/album-details.jpeg) | ![search-form.jpeg](images/screenshots/search-form.jpeg) |
 | :-: | :-: |
 | *Album details* | *Search form* |
 
-| ![search-results.jpeg](screenshots/search-results.jpeg) | ![account-details.jpeg](screenshots/account-details.jpeg) |
+| ![search-results.jpeg](images/screenshots/search-results.jpeg) | ![account-details.jpeg](images/screenshots/account-details.jpeg) |
 | :-: | :-: |
 | *Search results* | *Account details* |
 
-| ![about.jpeg](screenshots/about.jpeg) | ![menu.jpeg](screenshots/menu.jpeg) |
+| ![about.jpeg](images/screenshots/about.jpeg) | ![menu.jpeg](images/screenshots/menu.jpeg) |
 | :-: | :-: |
 | *About* | *Menu* |
 
